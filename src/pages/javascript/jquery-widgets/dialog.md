@@ -79,6 +79,8 @@ Class that is added to the drop-down, when it gets initialized.
 
 **Default value**: `mage-dropdown-dialog`
 
+### `dialogContentClass`
+
 Class that is added/removed on drop-down content when it gets opened/closed.
 
 **Type**: String
